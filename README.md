@@ -9,5 +9,5 @@
 
 &nbsp;![](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="sujalshah" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=transparent" />
+<img align="center" src="https://camo.githubusercontent.com/981f410807d03a212b5774b575058bb76e31681437f7df090a3fe55083949c77/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d617368697368707331266c61796f75743d636f6d7061637426686964655f626f726465723d7472756526266c616e67735f636f756e743d31302673686f775f69636f6e733d74727565267468656d653d7472616e73706172656e74" />
 </p>
